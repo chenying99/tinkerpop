@@ -26,7 +26,7 @@ image::https://raw.githubusercontent.com/apache/tinkerpop/master/docs/static/ima
 TinkerPop 3.3.0 (Release Date: NOT OFFICIALLY RELEASED YET)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `TraversalMetrics` and `Metrics` Gryo formats changed given internal changes to the implementations.
+* `TraversalMetrics` and `Metrics` Gryo 1.0 formats changed given internal changes to their implementations.
 * Made `TraversalMetrics` safe to write to from multiple threads.
 * Graphite and Ganglia are no longer packaged with the Gremlin Server distribution.
 * `TransactionException` is no longer a class of `AbstractTransaction` and it extends `RuntimeException`.
