@@ -113,6 +113,7 @@ Changes to IO
 * Gryo incompatibilities with 3.2.x:
 ** `RequestMessage`
 ** `ResponseMessage`
+** `TraversalMetrics`
 
 Graphite and Ganglia
 ^^^^^^^^^^^^^^^^^^^^
